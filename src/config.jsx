@@ -4,17 +4,10 @@ import { HiCode, HiCube, HiDatabase, HiMail, HiBriefcase } from "react-icons/hi"
 
 export const config = {
     developer: {
-<<<<<<< HEAD
         name: "Deepak",
     },
     social: {
         github: "DK-DataHub",
-=======
-        name: "Huzaif",
-    },
-    social: {
-        github: "huzaifahmedz",
->>>>>>> c64314debde53c0245304e1d7f127014405efdc4
     },
     NAV_ITEMS: [
         { href: '/', label: 'Home' },
