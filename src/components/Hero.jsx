@@ -84,7 +84,11 @@ const Hero = () => {
                             Hi, I'm {config.developer.name}
                         </span>
                         <span className="block text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl bg-gradient-to-r from-white/60 via-white to-white/60 bg-clip-text text-transparent">
+<<<<<<< HEAD
                             I build dashboards that build distinction.
+=======
+                            I build web that builds brands.
+>>>>>>> c64314debde53c0245304e1d7f127014405efdc4
                         </span>
                     </motion.h1>
 
@@ -92,7 +96,11 @@ const Hero = () => {
                         variants={itemAnimation}
                         className="text-sm sm:text-base md:text-lg lg:text-xl text-white/60 leading-relaxed max-w-2xl"
                     >
+<<<<<<< HEAD
                         I design scalable, insight-rich experiences that turn raw data into compelling stories. Insight is my compass. The star is my signature.
+=======
+                        Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star.
+>>>>>>> c64314debde53c0245304e1d7f127014405efdc4
                     </motion.p>
 
                     <motion.div

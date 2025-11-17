@@ -47,7 +47,11 @@ const Header = () => {
                                 to="/"
                                 className="text-xl md:text-2xl font-bold bg-gradient-to-r from-white via-white to-white/70 bg-clip-text text-transparent hover:opacity-80 transition-opacity"
                             >
+<<<<<<< HEAD
                                 {config.developer.name} | DK-DataHub.
+=======
+                                {config.developer.name} | Devxora.
+>>>>>>> c64314debde53c0245304e1d7f127014405efdc4
                             </Link>
                         </motion.div>
 
