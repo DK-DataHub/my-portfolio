@@ -1,7 +1,7 @@
 # My Portfolio
 
 This portfolio website showcases my skills, projects, and experience.  
-It is **based on an open-source template** created by [Original Author’s Name or GitHub link].  
+It is **based on an open-source template** created by [https://github.com/huzaifahmedz].  
 I have customized it with my own content, including:
 - My skills and tools
 - My personal projects
