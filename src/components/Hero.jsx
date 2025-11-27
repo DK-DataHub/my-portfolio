@@ -85,6 +85,7 @@ const Hero = () => {
                         </span>
                         <span className="block text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl bg-gradient-to-r from-white/60 via-white to-white/60 bg-clip-text text-transparent">
                             I build web that builds brands.
+                            I build dashboards that build distinction.
                         </span>
                     </motion.h1>
 
@@ -92,7 +93,7 @@ const Hero = () => {
                         variants={itemAnimation}
                         className="text-sm sm:text-base md:text-lg lg:text-xl text-white/60 leading-relaxed max-w-2xl"
                     >
-                        Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star.
+                        Creative data analyst crafting dashboards that speak, scripts that solve, and visuals that spark decisions. Clarity is my compass. Insight is my north star.
                     </motion.p>
 
                     <motion.div
