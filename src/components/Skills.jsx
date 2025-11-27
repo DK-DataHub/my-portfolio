@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { HiChip, HiSparkles } from 'react-icons/hi';
+import { HiOutlineCog, HiSparkles } from 'react-icons/hi';
 import { config } from '../config.jsx';
 
 const getLevelPercentage = (level) => {
@@ -120,9 +120,9 @@ const Skills = () => {
                             variants={itemAnimation}
                             className="inline-flex items-center space-x-2 bg-white/5 border border-white/10 px-4 py-2 rounded-full backdrop-blur-sm"
                         >
-                            <HiChip className="w-5 h-5 text-white/80" />
+                            <HiOutlineCog className="w-5 h-5 text-white/80" />
                             <span className="text-sm font-medium text-white/80">
-                                Skills & Technologies
+                                Skills
                             </span>
                         </motion.div>
 
