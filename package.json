@@ -6,9 +6,6 @@
   "homepage": "https://dk-datahub.github.io/my-portfolio",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --outDir docs",
-  "scripts": {
-    "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
