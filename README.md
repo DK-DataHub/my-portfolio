@@ -10,4 +10,4 @@ I have customized it with my own content, including:
 
 All content (skills, projects, and experience) reflects my own work.  
 The design and structure are adapted from the original template.
->>>>>>> bc6959f164d72de1a8ea1ff9aceb0ee029c1011f
+
