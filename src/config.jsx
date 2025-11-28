@@ -136,14 +136,14 @@ export const config = {
         {
             icon: <FaGithub className="w-5 h-5" />,
             label: "GitHub",
-            value: "@huzaifahmedz",
-            link: `https://github.com/huzaifahmedz`
+            value: "@DK-DataHub",
+            link: `https://github.com/DK-DataHub`
         },
         {
             icon: <HiMail className="w-5 h-5" />,
             label: "Email",
-            value: "dev.huzaif@gmail.com",
-            link: "mailto:dev.huzaif@gmail.com"
+            value: "rameshdeepak179@gmail.com",
+            link: "mailto:rameshdeepak179@gmail.com"
         },
         {
             icon: <FaMapPin className="w-5 h-5" />,

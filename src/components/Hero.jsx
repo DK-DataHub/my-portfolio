@@ -84,7 +84,6 @@ const Hero = () => {
                             Hi, I'm {config.developer.name}
                         </span>
                         <span className="block text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl bg-gradient-to-r from-white/60 via-white to-white/60 bg-clip-text text-transparent">
-                            I build web that builds brands.
                             I build dashboards that build distinction.
                         </span>
                     </motion.h1>

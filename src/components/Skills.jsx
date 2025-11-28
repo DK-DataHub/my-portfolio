@@ -122,7 +122,7 @@ const Skills = () => {
                         >
                             <HiOutlineCog className="w-5 h-5 text-white/80" />
                             <span className="text-sm font-medium text-white/80">
-                                Skills
+                                Skills & Technologies
                             </span>
                         </motion.div>
 
